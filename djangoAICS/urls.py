@@ -17,8 +17,14 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from inputtingAutomation1 import views as iaview
+from locationMovement3 import views as lmview
 
 urlpatterns = [
+    #1 - inputting Automation
     path('', include('inputtingAutomation1.urls')),
+    #2 - Document Verification
+
+    #3 - Location Movement
+    path('', include('locationMovement3.urls')),
     path('admin/', admin.site.urls)
 ]
