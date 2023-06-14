@@ -1,0 +1,368 @@
+datetime,ip_address,NIK,applicant_name,age,gender,marital_status,number_of_dependents,occupation,job_position,job_specific_code,job_specific,education_level,user_income,collateral_value_of_on_site_assets,average_loans_taken_in_the_same_location,last_credit_history,other_credit_history1,other_credit_history2,other_credit_history3,worst_credit_performance,hardware,operating_system_type,browser,home_address,domicile_address,road_type,building_type,building_owner,building_location,gmaps_coordinates,gmaps_location_name,gmpas_location_description,gmaps_category,gmaps_address,gmaps_neighborhood,gmaps_street,gmaps_city,gmaps_postal_code,gmaps_state,total_population,average_income_of_the_population_in_the_area,education_of_the_population_in_the_area,unemployment_rate_in_the_area,crime_rate_in_the_area,poverty_rate_in_the_area,length_of_stay_at_domicile_address,address_stability,domicile_address_and_location_suitability,credit_risk
+2023-03-16 13:47:04.175860,172.18.8.127,1209225402610001,Maras Utama,62,P,Duda,2,Private employee,Staff,14200,Industri Pakaian Jadi Dan Barang Dari Kulit Berbulu,S2,3,690000000,1,2,4,1,4,2,Laptop,5,3,"Gg. PHH. Mustofa No. 93
+Surabaya, Sulawesi Selatan 27018","Gg. PHH. Mustofa No. 93
+Surabaya, Sulawesi Selatan 27018",Jalan Sedang,Kost-kostan,Pemerintah,Kawasan pegunungan,"-7.2574719, 112.7520883",Mess ,Ipsa quibusdam officia voluptates.,Residential neighbourhood,"Gg. PHH. Mustofa No. 93
+Surabaya, Sulawesi Selatan 27018",,,Surabaya,,East Java,0,4,1,0,2,0,120,3,2,4
+2023-03-16 13:47:04.727246,10.222.134.251,3213230806770003,"Darmaji Rahimah, M.Kom.",46,L,Cerai Mati,0,Farmer/gardener,Manager,24103,Industri Pipa Dan Sambungan Pipa Dari Baja Dan Besi,S2,2,893000000,0,0,1,2,0,4,Smartphone,0,6,"Gang Sukajadi No. 154
+Depok, NT 14675","Gang Sukajadi No. 154
+Depok, NT 14675",Jalan Kecil,Villa,Perorangan Orang Lain,Pinggiran kota,"-1.6, 103.61667",Rumah Susun Jalan Haji Abdulrahman Saleh,Error laboriosam nam quidem.,Residential neighbourhood,"Jalan Haji Abdulrahman Saleh, Sungai Asam, Jambi, Danau Sipin, Jambi, 36134, Indonesia",,Jalan Haji Abdulrahman Saleh,Jambi,36134,Jambi,2,2,2,2,0,0,82,2,0,4
+2023-03-16 13:47:06.261241,192.168.31.174,3309105702620001,Praba Santoso,61,P,Kawin,5,Consultant,Manager,2305,Pemungutan Kokon/kepompong Ulat Sutera,SMA/SMK,0,384000000,1,2,2,4,1,4,PC,2,6,"Gang Ahmad Dahlan No. 338
+Batam, DKI Jakarta 69812","Gang Moch. Toha No. 2
+Metro, Maluku 03558",Jalan Sedang,Perum,Perorangan Orang Lain,Kawasan pegunungan,"-7.0981, 109.3243",Mess Jembatan Comal,Ad repudiandae illo ea occaecati commodi aliquid dolorem.,Gated community,"SMA ALFALAH, Jembatan Comal, Sikasur, Pemalang, Jawa Tengah, Indonesia",,Jembatan Comal,,,Jawa Tengah,1,3,2,2,2,2,68,2,0,2
+2023-03-16 13:47:07.677771,192.168.255.148,6503063102980002,"dr. Gamani Ardianto, S.H.",25,L,Belum Kawin,1,Tailor,Supervisor,32902,Industri Pita Mesin Tulis/gambar,S2,1,849000000,2,0,1,3,3,1,Smartphone,5,7,"Jl. Dr. Djunjunan No. 143
+Batam, Jawa Timur 72871","Jl. Dr. Djunjunan No. 143
+Batam, Jawa Timur 72871",Jalan Besar,Rumah Susun,Pemerintah,Kawasan perumahan padat penduduk,"1.1300779, 104.0529207",Apartemen ,Rerum tempora perspiciatis vero.,Duplex,"Jl. Dr. Djunjunan No. 143
+Batam, Jawa Timur 72871",,,Batam,,Riau Islands,3,0,0,3,3,3,7,0,2,0
+2023-03-16 13:47:08.011478,192.168.84.88,9117091911620001,H. Bakijan Sihotang,61,L,Janda,0,Village officials,Supervisor,51101,Angkutan Udara Berjadwal Dalam Negeri Umum Untuk Penumpang,S3,0,103000000,2,3,1,0,4,4,Laptop,5,6,"Gg. Antapani Lama No. 856
+Bandar Lampung, Lampung 15620","Gg. Antapani Lama No. 856
+Bandar Lampung, Lampung 15620",Jalan Sedang,Perum,Lainnya,Pinggiran kota,"-5.3971396, 105.2667887",Kost-kostan ,Nobis sed sunt doloremque sint ullam illo.,Condominium complex,"Gg. Antapani Lama No. 856
+Bandar Lampung, Lampung 15620",,,Bandar Lampung,,Lampung,4,1,0,4,4,3,8,0,2,0
+2023-03-16 13:47:08.288108,10.63.212.239,3503014901650002,Syahrini Uwais,58,P,Belum Kawin,0,Event promoter,Manager,13941,Industri Tali,SMA/SMK,2,579000000,1,1,4,0,4,4,Laptop,1,0,"Jalan Suniaraja No. 83
+Kota Administrasi Jakarta Selatan, Kalimantan Barat 32867","Jalan K.H. Wahid Hasyim No. 9
+Singkawang, Sulawesi Tengah 08626",Jalan Sedang,Apartemen,Pemerintah,Kawasan perumahan padat penduduk,"0.51667, 101.44167",Kost-kostan Jalan Durian,Officiis veniam eos.,Retirement home,"Jalan Durian, RT. 01, Kelurahan Jadirejo, Kabupaten Kampar, Riau, 28121, Indonesia",,Jalan Durian,Kelurahan Jadirejo,28121,Riau,2,1,1,3,2,1,46,1,0,3
+2023-03-16 13:47:10.285663,192.168.17.188,9210041304510005,Purwadi Lailasari,72,L,Duda,2,Artist,Staff,2306,Pemungutan Damar,S3,3,573000000,1,0,2,4,3,0,Smartphone,3,0,"Jalan Gegerkalong Hilir No. 9
+Banjarmasin, Lampung 12107","Gang Antapani Lama No. 7
+Denpasar, Jawa Barat 89314",Jalan Besar,Villa,Perorangan Orang Lain,Kawasan perumahan elite,"-3.5403, 118.9707",Apartemen ,Vitae cum ex ipsum fugiat.,Condominium complex,"Labuang, Majene, Sulawesi Barat, 91412, Indonesia",,,,91412,Sulawesi Barat,1,4,2,0,0,0,92,3,0,2
+2023-03-16 13:47:12.189491,10.109.42.1,3212171710650008,"Zulfa Zulkarnain, S.I.Kom",58,L,Belum Kawin,5,Fashion stylist,Manager,24102,Industri Penggilingan Baja (steel Rolling),S2,3,228000000,0,3,1,1,1,0,Laptop,4,1,"Gang Cihampelas No. 33
+Batam, SG 59514","Gang Cihampelas No. 33
+Batam, SG 59514",Jalan Besar,Villa,Lainnya,Kawasan wisata,"1.1300779, 104.0529207",Rumah ,Natus aut aliquam blanditiis itaque.,Residential neighbourhood,"Gang Cihampelas No. 33
+Batam, SG 59514",,,Batam,,Riau Islands,1,4,2,1,2,1,97,3,2,4
+2023-03-16 13:47:12.950528,192.168.221.35,1401114905860007,Balamantri Samosir,37,P,Cerai Hidup,0,Researcher,Staff,26514,Industri Alat Uji Dalam Proses Industri,SMA/SMK,2,177000000,1,0,0,2,3,4,PC,0,3,"Jl. Rawamangun No. 153
+Bandar Lampung, Kepulauan Riau 92093","Gg. Ciumbuleuit No. 127
+Bekasi, KI 91331",Jalan Kecil,Rumah Susun,Pemerintah,Kawasan komersial,"-4.5585849, 105.4068079",Rumah Susun ,Eaque quisquam facilis nihil enim.,Gated community,"Jl. Rawamangun No. 153
+Bandar Lampung, Kepulauan Riau 92093",,,,,Lampung,4,0,1,3,3,2,24,0,0,2
+2023-03-16 13:47:13.582065,192.168.76.188,3502184405540009,"Rahmi Purnawati, S.Pd",69,P,Kawin,0,Honorary employee,Direktur,47874,Perdagangan Eceran Kaki Lima Dan Los Pasar Alat Olahraga Dan Alat Musik,SMA/SMK,4,939000000,2,4,1,0,2,0,Laptop,0,6,"Jalan Rawamangun No. 667
+Prabumulih, Sulawesi Tenggara 76361","Jalan Rawamangun No. 667
+Prabumulih, Sulawesi Tenggara 76361",Jalan Sedang,Perum,Perorangan Orang Lain,Kawasan komersial,"-2.6641473, 120.4674459",Kost-kostan ,Rerum laudantium deserunt repellendus delectus placeat corrupti odit.,Duplex,"Jalan Rawamangun No. 667
+Prabumulih, Sulawesi Tenggara 76361",,,,,South Sulawesi,2,3,3,1,1,0,61,2,2,3
+2023-03-16 13:47:13.932078,172.20.45.129,9116014509790008,Arsipatra Novitasari,44,P,Belum Kawin,5,Vice Regent/Vice Mayor,Direktur,16292,Industri Barang Anyaman Dari Tanaman Bukan Rotan Dan Bambu,S1,1,161000000,1,0,4,4,1,2,Smartphone,2,5,"Gang Lembong No. 547
+Kota Administrasi Jakarta Pusat, Sulawesi Selatan 33045","Gang Lembong No. 547
+Kota Administrasi Jakarta Pusat, Sulawesi Selatan 33045",Jalan Besar,Rumah Susun,Pemerintah,Kawasan perumahan elite,"-3.6687994, 119.9740534",Apartemen ,Aliquam unde voluptatibus aliquid.,Condominium complex,"Gang Lembong No. 547
+Kota Administrasi Jakarta Pusat, Sulawesi Selatan 33045",,,,,South Sulawesi,0,3,3,1,1,1,112,3,2,3
+2023-03-16 13:47:14.382269,10.63.202.181,3317110908850001,"Septi Hidayat, M.Pd",38,L,Cerai Mati,2,Vice Governor,Supervisor,15203,Industri Sepatu Teknik Lapangan/keperluan Industri,D3,2,518000000,2,2,3,2,1,4,PC,2,2,"Gang PHH. Mustofa No. 2
+Kota Administrasi Jakarta Utara, JI 86695","Gang PHH. Mustofa No. 2
+Kota Administrasi Jakarta Utara, JI 86695",Jalan Besar,Kost-kostan,Perusahaan,Pusat kota,"-6.133622700000001, 106.903643",Perum Gang H. Mustofa,Quod perferendis adipisci ad molestias neque sequi.,Residential neighbourhood,"Gang PHH. Mustofa No. 2
+Kota Administrasi Jakarta Utara, JI 86695",,Gang H. Mustofa,,14230,Daerah Khusus Ibukota Jakarta,3,0,0,4,3,2,4,0,2,0
+2023-03-16 13:47:14.690346,192.168.159.145,3504175912700008,Artanto Permata,53,P,Janda,0,Entrepreneur,Supervisor,1465,Pembibitan Dan Budidaya Kalkun,SMA/SMK,2,415000000,0,0,2,0,0,1,Smartphone,4,3,"Jalan Jakarta No. 0
+Kupang, Kalimantan Timur 11501","Jalan S. Parman No. 734
+Medan, Banten 51299",Jalan Besar,Rumah Susun,Perorangan Pribadi,Kawasan perumahan elite,"0.5386586, 116.419389",Kontrakan ,Dolor assumenda tenetur quasi.,Apartment complex,"Jalan Jakarta No. 0
+Kupang, Kalimantan Timur 11501",,,,,East Kalimantan,0,3,4,0,1,0,105,3,0,4
+2023-03-16 13:47:15.834671,10.121.79.2,5105010508620002,"Titi Farida, S.H.",61,L,Duda,2,Vice President,Manager,1712,Perburuan Dan Penangkapan Mamalia,S2,3,68000000,1,1,3,2,3,3,Smartphone,3,7,"Gang Tubagus Ismail No. 33
+Pematangsiantar, PB 36805","Gang Tubagus Ismail No. 33
+Pematangsiantar, PB 36805",Jalan Sedang,Perum,Perorangan Orang Lain,Kawasan pegunungan,"-1.26753, 116.82887",Villa ,Dolorem possimus iusto iure.,Duplex,"Telaga Sari, Balikpapan, Kalimantan Timur, 76112, Indonesia",,,Balikpapan,76112,Kalimantan Timur,3,0,0,4,4,2,9,0,0,2
+2023-03-16 13:47:18.166125,10.119.196.134,9206180704830008,Hari Kusumo,40,L,Cerai Mati,2,Shoe repairman,Direktur,51104,Angkutan Udara Tidak Berjadwal Dalam Negeri Umum Untuk Penumpang,SMA/SMK,4,651000000,3,0,1,2,4,1,Smartphone,4,4,"Gg. Joyoboyo No. 3
+Dumai, PA 57440","Jalan Suryakencana No. 1
+Kendari, Kalimantan Barat 33481",Jalan Besar,Perum,Perorangan Orang Lain,Kawasan wisata,,Rumah Susun ,Soluta ipsam deserunt quaerat odio quisquam nulla.,,"Gg. Joyoboyo No. 3
+Dumai, PA 57440",,,,,,4,0,0,3,4,2,3,0,0,0
+2023-03-16 13:47:18.438458,172.17.45.47,3205406711720009,Langgeng Irawan,51,P,Cerai Mati,2,Fashion stylist,Staff,10423,Industri Minyak Goreng Kelapa,D3,4,165000000,1,4,4,4,3,0,Smartphone,0,3,"Jalan Jakarta No. 7
+Salatiga, NT 99829","Jalan Tubagus Ismail No. 34
+Bontang, SN 05141",Jalan Kecil,Perum,Perorangan Pribadi,Kawasan komersial,"-6.2087634, 106.845599",Kontrakan ,Commodi doloremque earum.,Dormitory,"Jalan Jakarta No. 7
+Salatiga, NT 99829",,,Jakarta,,Jakarta,2,2,2,3,2,1,39,1,0,0
+2023-03-16 13:47:19.530828,192.168.70.250,9106126507810003,"Puti Ramadan, S.E.I",42,P,Belum Kawin,1,Member of the Regency/City House of Representatives,Direktur,55192,Bumi Perkemahan,D4,0,524000000,2,0,2,0,0,0,Smartphone,1,4,"Jalan Ciumbuleuit No. 20
+Cilegon, SU 40450","Gang Wonoayu No. 7
+Denpasar, Kalimantan Utara 14952",Jalan Besar,Apartemen,Lainnya,Kawasan perumahan elite,"-6.8825718, 107.6046472",Perum Jalan Ciumbuleuit,Commodi blanditiis dolor non illum fugiat quos.,House,"Jalan Ciumbuleuit No. 20
+Cilegon, SU 40450",,Jalan Ciumbuleuit,,40141,Jawa Barat,0,4,2,0,1,1,102,3,0,3
+2023-03-16 13:47:20.752164,10.234.210.194,7404241712580008,Suci Hasanah,65,L,Duda,4,Fashion stylist,Supervisor,85420,Pendidikan Kebudayaan,D3,0,601000000,1,1,3,2,4,3,PC,1,3,"Gg. Dr. Djunjunan No. 368
+Kupang, LA 58520","Gg. Erlangga No. 76
+Tangerang, SR 90914",Jalan Kecil,Mess,Perorangan Orang Lain,Pinggiran kota,"-6.1701796, 106.6403236",Rumah ,Vero nulla harum animi ut nulla.,Dormitory,"Gg. Erlangga No. 76
+Tangerang, SR 90914",,,Tangerang,,Banten,4,0,0,4,4,3,6,0,2,1
+2023-03-16 13:47:21.286112,172.29.166.240,7402211012880008,Ganep Laksmiwati,35,L,Cerai Hidup,1,Teacher,Supervisor,10213,Industri Pembekuan Ikan,SMA/SMK,4,115000000,3,0,4,3,0,1,PC,3,5,"Jalan Cikutra Barat No. 76
+Pangkalpinang, KU 48809","Jalan Cikutra Barat No. 76
+Pangkalpinang, KU 48809",Jalan Kecil,Kontrakan,Pemerintah,Kawasan perumahan miskin,"-2.1316266, 106.1169299",Rumah Susun ,Eaque voluptatum maxime incidunt.,Townhouse,"Jalan Cikutra Barat No. 76
+Pangkalpinang, KU 48809",,,Pangkalpinang,,Bangka Belitung Islands,3,2,2,3,3,2,51,1,2,3
+2023-03-16 13:47:21.916157,192.168.155.63,7371065511720003,Faizah Manullang,51,P,Janda,5,Chef,Supervisor,1461,Budidaya Ayam Ras Pedaging,S3,0,661000000,3,0,4,4,2,3,Smartphone,4,6,"Gg. Raya Ujungberung No. 559
+Kotamobagu, KB 88294","Jl. Sukabumi No. 0
+Sorong, KU 60571",Jalan Sedang,Perum,Pemerintah,Kawasan wisata,"-0.8761629000000001, 131.255828",Mess ,Sunt cum aliquam earum delectus.,Retirement home,"Jl. Sukabumi No. 0
+Sorong, KU 60571",,,Sorong,,West Papua,4,1,0,3,4,3,22,0,2,0
+2023-03-16 13:47:22.319344,10.83.118.141,9126015611830008,"drg. Salwa Widodo, M.M.",40,P,Cerai Hidup,1,Event promoter,Staff,2139,Pengusahaan Hutan Bukan Kayu Lainnya,D4,1,71000000,2,2,1,1,1,3,Smartphone,3,2,"Jalan Cikutra Barat No. 79
+Kota Administrasi Jakarta Pusat, Banten 90867","Gang Lembong No. 8
+Pangkalpinang, Banten 66694",Jalan Sedang,Apartemen,Pemerintah,Kawasan komersial,"-1.26424, 104.09701",Rumah ,Dolor culpa sit unde eum.,Gated community,"Kelurahan Simpang, Tanjung Jabung Timur, Jambi, Indonesia",,,,,Jambi,4,1,1,4,3,2,9,0,0,1
+2023-03-16 13:47:24.322488,10.39.235.6,9271074411700009,Mariadi Kusmawati,53,P,Cerai Hidup,4,Teacher,Manager,13912,Industri Kain Sulaman/bordir,SMA/SMK,2,670000000,3,0,1,1,1,0,Laptop,2,1,"Jalan H.J Maemunah No. 842
+Magelang, KT 17434","Jalan H.J Maemunah No. 842
+Magelang, KT 17434",Jalan Besar,Kost-kostan,Lainnya,Kawasan wisata,"-7.81667, 112.01667",Kontrakan ,Deleniti aperiam quod.,Apartment complex,"Kota, Kediri, Jawa Timur, Jawa, 64123, Indonesia",,,Kediri,64123,Jawa Timur,0,3,3,0,1,0,120,3,0,2
+2023-03-16 13:47:26.141688,192.168.243.106,6301040705920005,Marsudi Usada,31,L,Janda,4,Fisherman/fishery laborer,Direktur,79120,Aktivitas Biro Perjalanan Wisata,S1,4,246000000,3,3,0,3,2,4,Smartphone,2,3,"Jalan Sadang Serang No. 025
+Singkawang, Sumatera Barat 11108","Gang Pasteur No. 2
+Pematangsiantar, SS 22672",Jalan Besar,Apartemen,Perorangan Orang Lain,Kawasan perumahan padat penduduk,"-6.8955402, 107.6230118",Kost-kostan ,Sint incidunt amet odio deserunt consectetur.,Apartment complex,"Jalan Sadang Serang No. 025
+Singkawang, Sumatera Barat 11108",,,,,West Java,1,4,2,0,2,0,112,3,0,3
+2023-03-16 13:47:27.315895,192.168.196.142,1202135407750003,"Jaeman Hutagalung, S.Pd",48,P,Cerai Mati,4,Traditional healer,Supervisor,69104,Aktivitas Notaris Dan Pejabat Pembuat Akta Tanah,D3,2,431000000,1,0,4,2,1,3,Laptop,1,3,"Jl. Dipenogoro No. 374
+Banda Aceh, Kalimantan Tengah 38262","Jl. Dipenogoro No. 374
+Banda Aceh, Kalimantan Tengah 38262",Jalan Besar,Apartemen,Lainnya,Pinggiran kota,"5.5482904, 95.3237559",Rumah ,Maxime voluptate quam dicta ad consequuntur.,Duplex,"Jl. Dipenogoro No. 374
+Banda Aceh, Kalimantan Tengah 38262",,,Banda Aceh,,Aceh,3,0,1,3,4,2,27,0,2,2
+2023-03-16 13:47:27.708990,172.19.121.100,3603130911640005,Ikhsan Handayani,59,L,Cerai Hidup,5,Member of the Supreme Audit Agency,Staff,15113,Industri Pencelupan Kulit Bulu,S1,2,242000000,3,4,3,0,0,0,PC,4,4,"Jl. Sukajadi No. 9
+Bitung, JA 47741","Jl. Sukajadi No. 9
+Bitung, JA 47741",Jalan Besar,Rumah Susun,Perusahaan,Kawasan wisata,"1.4403744, 125.1216524",Rumah ,Veniam fuga distinctio eligendi ut corporis.,House,"Jl. Sukajadi No. 9
+Bitung, JA 47741",,,Bitung,,North Sulawesi,3,1,0,3,3,3,12,0,2,0
+2023-03-16 13:47:28.103844,192.168.71.138,3323116905990004,T. Kariman Firgantoro,24,P,Duda,1,Daily laborer,Manager,10312,Industri Pelumatan Buah-buahan Dan Sayuran,D3,2,567000000,1,1,2,0,1,0,PC,1,7,"Gang Merdeka No. 538
+Sukabumi, Riau 82227","Jl. Laswi No. 43
+Banjarmasin, KT 98735",Jalan Sedang,Apartemen,Perusahaan,Kawasan wisata,"-3.3186067, 114.5943784",Rumah ,Rem facilis porro.,Apartment complex,"Jl. Laswi No. 43
+Banjarmasin, KT 98735",,,Banjarmasin,,South Kalimantan,2,1,1,3,3,1,38,1,2,3
+2023-03-16 13:47:28.486156,172.24.77.7,8206072701630005,Dadap Mangunsong,60,L,Cerai Mati,1,Notary,Supervisor,46321,Perdagangan Besar Daging Sapi Dan Daging Sapi Olahan,D3,2,919000000,2,2,0,1,3,4,Smartphone,1,1,"Gg. Otto Iskandardinata No. 4
+Bandar Lampung, Kepulauan Bangka Belitung 93874","Jl. Waringin No. 82
+Purwokerto, Jawa Barat 63329",Jalan Besar,Apartemen,Lainnya,Kawasan pertanian,"-2.7410513, 106.4405872",Apartemen ,Fuga autem optio aliquid fuga molestias earum eaque.,Apartment complex,"Gg. Otto Iskandardinata No. 4
+Bandar Lampung, Kepulauan Bangka Belitung 93874",,,,,Bangka Belitung Islands,2,3,1,1,3,1,72,2,0,0
+2023-03-16 13:47:29.157888,10.128.211.65,3204065511810000,Ghani Maryadi,42,P,Duda,5,Fashion stylist,Staff,46492,Perdagangan Besar Farmasi,SMA/SMK,4,647000000,3,3,1,1,2,1,Smartphone,4,5,"Jl. Antapani Lama No. 0
+Mojokerto, Sumatera Utara 77616","Jalan Rumah Sakit No. 43
+Kendari, MU 91411",Jalan Sedang,Kontrakan,Perorangan Orang Lain,Kawasan perumahan elite,"-7.54972, 110.71639",Rumah ,Voluptates odio debitis.,Dormitory,"Kertonatan, Sukoharjo, Jawa Tengah, 57165, Indonesia",,,,57165,Jawa Tengah,2,2,1,2,2,1,60,1,0,3
+2023-03-16 13:47:31.633516,192.168.15.18,5307020603590003,Mumpuni Rahimah,64,L,Duda,3,Traditional healer,Supervisor,1494,Pembibitan Dan Budidaya Rusa,SMA/SMK,1,198000000,2,1,1,1,2,0,PC,5,1,"Gg. Dr. Djunjunan No. 81
+Tangerang, Papua 21348","Gg. Dr. Djunjunan No. 81
+Tangerang, Papua 21348",Jalan Sedang,Kost-kostan,Perorangan Orang Lain,Pinggiran kota,"-4.269928, 138.0803529",Villa ,Accusamus deserunt facere neque.,Duplex,"Gg. Dr. Djunjunan No. 81
+Tangerang, Papua 21348",,,,,Papua,0,4,3,0,2,1,112,3,0,4
+2023-03-16 13:47:31.977115,10.175.62.207,7103154401980002,"Anggabaya Hassanah, M.Ak",25,P,Cerai Hidup,5,Member of the Supreme Audit Agency,Supervisor,50225,Angkutan Penyeberangan Perintis Antarprovinsi Untuk Barang,S3,1,81000000,1,4,2,3,0,1,Smartphone,0,5,"Gang Peta No. 590
+Bontang, Sulawesi Tengah 54230","Jalan Rumah Sakit No. 668
+Bengkulu, BA 26475",Jalan Sedang,Perum,Lainnya,Pusat kota,"-1.6, 103.61667",Rumah Susun Jalan Haji Abdulrahman Saleh,Ut explicabo neque molestias occaecati.,Condominium complex,"Jalan Haji Abdulrahman Saleh, Sungai Asam, Jambi, Danau Sipin, Jambi, 36134, Indonesia",,Jalan Haji Abdulrahman Saleh,Jambi,36134,Jambi,1,2,2,1,3,0,77,2,0,4
+2023-03-16 13:47:34.163931,172.27.82.118,1610074910590008,"Cut Icha Suwarno, S.IP",64,P,Cerai Mati,1,Fashion stylist,Staff,43211,Instalasi Listrik,D3,2,293000000,2,2,0,2,3,2,PC,4,3,"Jl. Ir. H. Djuanda No. 258
+Sorong, SS 13054","Jl. Ir. H. Djuanda No. 258
+Sorong, SS 13054",Jalan Kecil,Apartemen,Perorangan Orang Lain,Kawasan pegunungan,"-7.01833, 107.60389",Rumah ,Exercitationem sequi culpa necessitatibus exercitationem temporibus quidem labore.,Apartment complex,"Rancamulya, Bandung, Jawa Barat, 40288, Indonesia",,,,40288,Jawa Barat,3,2,1,3,2,2,43,1,0,1
+2023-03-16 13:47:36.171859,10.33.214.129,3520076310550001,Atmaja Agustina,68,P,Cerai Hidup,0,Fisherman/fisheries,Staff,47999,"Perdagangan Eceran Bukan Di Toko, Kios, Kaki Lima Dan Los Pasar Lainnya Ytdl",S3,2,811000000,0,1,0,1,2,4,PC,0,6,"Jalan K.H. Wahid Hasyim No. 7
+Malang, AC 35900","Jalan K.H. Wahid Hasyim No. 7
+Malang, AC 35900",Jalan Kecil,Perum,Lainnya,Kawasan komersial,"-7.984386099999999, 112.6288612",Kontrakan Jalan Kyai Haji Wahid Hasyim,Hic tempore iure.,Apartment complex,"Jalan K.H. Wahid Hasyim No. 7
+Malang, AC 35900",,Jalan Kyai Haji Wahid Hasyim,,65119,Jawa Timur,3,1,1,3,3,2,6,0,2,0
+2023-03-16 13:47:36.994147,192.168.56.18,3316025010990008,Irsad Firmansyah,24,P,Kawin,0,Nun,Manager,84139,Kegiatan Lembaga Pemerintahan Untuk Menciptakan Efisiensi Produksi Dan Bisnis Lainnya,SMA/SMK,2,633000000,2,1,1,0,3,3,Smartphone,4,4,"Gang Yos Sudarso No. 5
+Kediri, BA 55868","Jalan Moch. Toha No. 99
+Manado, Jawa Tengah 37420",Jalan Besar,Apartemen,Perorangan Pribadi,Kawasan perumahan elite,"-7.150975, 110.1402594",Rumah Susun ,Maiores veniam nobis quisquam nesciunt.,Townhouse,"Jalan Moch. Toha No. 99
+Manado, Jawa Tengah 37420",,,,,Central Java,2,2,1,1,3,1,63,2,2,4
+2023-03-16 13:47:37.579558,10.203.17.204,3305110307970002,"Hj. Zulfa Prakasa, S.Sos",26,L,Cerai Mati,5,Lawyer,Supervisor,3263,Jasa Pasca Panen Budidaya Ikan Air Payau,S3,2,494000000,0,2,2,0,4,4,Smartphone,5,4,"Gg. Jayawijaya No. 5
+Bima, BA 07939","Gg. Jayawijaya No. 5
+Bima, BA 07939",Jalan Kecil,Apartemen,Pemerintah,Kawasan perumahan elite,"-7.791816799999999, 110.4007221",Mess Gang Jaya Wijaya,Nemo reiciendis aspernatur est quisquam recusandae.,House,"Gg. Jayawijaya No. 5
+Bima, BA 07939",,Gang Jaya Wijaya,,55198,Daerah Istimewa Yogyakarta,1,3,2,1,1,1,90,2,2,3
+2023-03-16 13:47:38.362491,172.22.159.44,1703160502590005,Purwanto Pranowo,64,L,Cerai Hidup,4,Shoe repairman,Staff,3119,Penangkapan Biota Air Lainnya Di Laut,D3,0,964000000,0,1,4,4,0,1,PC,3,1,"Gg. Rungkut Industri No. 052
+Pematangsiantar, LA 61959","Gg. Rungkut Industri No. 052
+Pematangsiantar, LA 61959",Jalan Besar,Villa,Perusahaan,Kawasan perumahan elite,"-7.51611, 109.05389",Mess ,Explicabo quis quisquam pariatur soluta.,Condominium complex,"Wangon, Banyumas, Jawa Tengah, Indonesia",,,,,Jawa Tengah,2,2,1,2,2,1,58,1,0,2
+2023-03-16 13:47:41.093090,10.106.255.50,3214074603850005,Ridwan Utami,38,P,Duda,5,Regent/Mayor,Supervisor,38120,Pengumpulan Sampah Berbahaya,SMA/SMK,4,241000000,2,2,3,2,3,4,Laptop,5,6,"Gg. Sukajadi No. 472
+Malang, Jawa Tengah 43559","Gg. Pasteur No. 1
+Palangkaraya, MU 85659",Jalan Kecil,Villa,Lainnya,Pusat kota,"-7.9666204, 112.6326321",Mess ,Beatae in quae beatae fugit similique.,Apartment complex,"Gg. Sukajadi No. 472
+Malang, Jawa Tengah 43559",,,Malang,,East Java,4,1,0,3,4,2,29,0,0,0
+2023-03-16 13:47:41.896578,10.138.42.136,1509012806710003,Silvia Rahmawati,52,L,Janda,5,Vice President,Supervisor,7309,Pertambangan Bijih Logam Mulia Lainnya,S1,1,153000000,0,4,3,4,3,1,Laptop,1,6,"Gang KH Amin Jasuta No. 574
+Kota Administrasi Jakarta Pusat, Sumatera Selatan 09000","Gang KH Amin Jasuta No. 574
+Kota Administrasi Jakarta Pusat, Sumatera Selatan 09000",Jalan Besar,Kontrakan,Perusahaan,Kawasan pegunungan,"3.7278, 98.6738",Apartemen ,Expedita eligendi enim nobis nulla optio.,House,"Labuhan Deli, Medan Marelan, Kota Medan, Sumatera Utara, 20253, Indonesia",Labuhan Deli,,Kota Medan,20253,Sumatera Utara,1,4,1,0,0,0,98,3,0,1
+2023-03-16 13:47:49.631470,192.168.45.71,3529241810730001,Azalea Hidayat,50,L,Duda,0,Transportation,Staff,15112,Industri Penyamakan Kulit,SMA/SMK,3,102000000,2,0,3,4,1,0,Laptop,1,7,"Gg. Tubagus Ismail No. 54
+Palembang, Jawa Barat 97514","Gg. Cempaka No. 12
+Medan, KI 83349",Jalan Besar,Kontrakan,Lainnya,Kawasan perumahan miskin,"3.31332, 117.59152",Perum ,Veritatis sunt totam sapiente nesciunt consequatur necessitatibus.,Condominium complex,"Karang Balik, Tarakan, Kalimantan Utara, 77112, Indonesia",,,Tarakan,77112,Kalimantan Utara,2,3,1,1,1,1,87,2,0,4
+2023-03-16 13:47:52.455455,172.21.101.35,3212206407550009,Hj. Shania Tamba,68,P,Janda,2,Television broadcaster,Staff,22291,Industri Barang Plastik Lembaran,D4,1,560000000,1,2,1,3,2,1,Laptop,2,7,"Jl. S. Parman No. 8
+Denpasar, DI Yogyakarta 54232","Jl. Abdul Muis No. 21
+Bengkulu, SS 57066",Jalan Besar,Rumah Susun,Perorangan Orang Lain,Pusat kota,"-7.875384899999999, 110.4262088",Villa ,Sunt porro numquam sunt incidunt.,Duplex,"Jl. S. Parman No. 8
+Denpasar, DI Yogyakarta 54232",,,,,Special Region of Yogyakarta,2,2,0,3,3,2,37,1,0,0
+2023-03-16 13:47:53.457811,172.21.131.88,7415023110900008,Maria Thamrin,33,L,Cerai Hidup,2,Sailor,Staff,5102,Gasifikasi Batu Bara Di Lokasi Penambangan,S1,2,819000000,1,1,2,3,2,1,Laptop,3,4,"Jalan Otto Iskandardinata No. 6
+Bau-Bau, Papua Barat 69709","Jl. Joyoboyo No. 174
+Parepare, Sulawesi Tenggara 15495",Jalan Kecil,Villa,Pemerintah,Kawasan perumahan padat penduduk,"-3.5403, 118.9707",Mess ,Voluptates aspernatur harum doloremque blanditiis.,Condominium complex,"Labuang, Majene, Sulawesi Barat, 91412, Indonesia",,,,91412,Sulawesi Barat,4,0,0,3,4,3,25,0,0,1
+2023-03-16 13:47:55.114673,10.219.229.161,5104065401870004,"Ir. Gaduh Kurniawan, S.Pt",36,P,Belum Kawin,5,Indonesian National Army,Staff,1611,Jasa Pengolahan Lahan,S1,3,261000000,0,4,2,3,2,2,Laptop,3,7,"Jl. BKR No. 98
+Tebingtinggi, RI 13468","Gg. Siliwangi No. 5
+Jambi, RI 35798",Jalan Sedang,Kost-kostan,Perorangan Orang Lain,Kawasan pegunungan,"-0.0408714, 109.3173169",Perum Gang Siliwangi,Modi eos aspernatur molestiae.,Apartment complex,"Gg. Siliwangi No. 5
+Jambi, RI 35798",,Gang Siliwangi,,78113,Kalimantan Barat,1,3,1,1,0,0,74,2,2,4
+2023-03-16 13:47:55.435529,10.49.190.236,7409071210780008,"Luwar Prasetyo, S.Pt",45,L,Cerai Hidup,0,Paranormal,Manager,71209,Analisis Dan Uji Teknis Lainnya,D4,0,121000000,2,1,3,4,2,1,PC,4,0,"Gg. PHH. Mustofa No. 725
+Palembang, KR 19665","Gg. PHH. Mustofa No. 725
+Palembang, KR 19665",Jalan Kecil,Rumah Susun,Pemerintah,Kawasan wisata,"-2.9760735, 104.7754307",Villa ,Nihil maiores quo voluptate neque iste.,Dormitory,"Gg. PHH. Mustofa No. 725
+Palembang, KR 19665",,,Palembang,,South Sumatra,1,2,3,1,2,2,68,2,2,3
+2023-03-16 13:47:55.987093,192.168.235.12,9116032603870000,Qori Susanti,36,L,Duda,5,Event promoter,Staff,47744,Perdagangan Eceran Barang Listrik Dan Elektronik Bekas,D3,3,494000000,1,0,4,0,0,4,Smartphone,4,0,"Jalan Pasirkoja No. 596
+Sawahlunto, Kepulauan Bangka Belitung 85791","Jalan Pasirkoja No. 596
+Sawahlunto, Kepulauan Bangka Belitung 85791",Jalan Besar,Villa,Perorangan Orang Lain,Pinggiran kota,"-2.7410513, 106.4405872",Kost-kostan ,Quae magni eius.,House,"Jalan Pasirkoja No. 596
+Sawahlunto, Kepulauan Bangka Belitung 85791",,,,,Bangka Belitung Islands,2,2,0,3,2,1,37,1,2,3
+2023-03-16 13:47:56.413285,192.168.173.213,1118065307630001,Asirwanda Prastuti,60,P,Duda,5,Fashion stylist,Manager,47112,"Perdagangan Eceran Berbagai Macam Barang Yang Utamanya Makanan, Minuman Atau Tembakau Bukan Di Supermarket/minimarket (tradisional)",D4,0,399000000,3,4,2,3,4,3,PC,4,1,"Gg. Ciumbuleuit No. 94
+Payakumbuh, SS 15821","Jl. M.T Haryono No. 1
+Pontianak, SB 79512",Jalan Sedang,Villa,Lainnya,Kawasan pertanian,"-0.2246548, 100.6318006",Mess ,Pariatur asperiores iure asperiores.,House,"Gg. Ciumbuleuit No. 94
+Payakumbuh, SS 15821",,,Payakumbuh,,West Sumatra,1,3,1,2,3,1,78,2,0,2
+2023-03-16 13:47:58.544864,10.78.48.140,1203311904960005,"Jaiman Aryani, M.TI.",27,L,Duda,0,Regent/Mayor,Manager,33159,"Reparasi Alat Angkutan Lainnya, Bukan Kendaraan Bermotor",S1,2,98000000,3,2,0,0,2,3,Smartphone,2,3,"Gg. Wonoayu No. 5
+Probolinggo, NT 45522","Jalan W.R. Supratman No. 169
+Denpasar, ST 28744",Jalan Kecil,Perum,Perusahaan,Kawasan perumahan elite,"-7.51611, 109.05389",Kost-kostan ,Officiis ipsam maxime fuga maxime.,House,"Wangon, Banyumas, Jawa Tengah, Indonesia",,,,,Jawa Tengah,4,0,0,4,3,2,23,0,0,0
+2023-03-16 13:48:01.164373,172.16.191.94,9124271412890001,Yani Sinaga,34,L,Duda,4,Mechanic,Direktur,26490,Industri Peralatan Audio Dan Video Elektronik Lainnya,SMA/SMK,2,502000000,3,4,4,1,4,1,Laptop,1,1,"Gang Cihampelas No. 9
+Semarang, Gorontalo 36404","Gang Cihampelas No. 9
+Semarang, Gorontalo 36404",Jalan Sedang,Mess,Lainnya,Kawasan perumahan padat penduduk,"-7.0051453, 110.4381254",Kost-kostan ,Ipsa odit earum exercitationem sequi.,Dormitory,"Gang Cihampelas No. 9
+Semarang, Gorontalo 36404",,,Semarang,,Central Java,2,2,2,1,0,0,78,2,2,4
+2023-03-16 13:48:01.708260,192.168.110.156,1604262005560002,Rahmi Rahimah,67,L,Duda,4,Welder/blacksmith,Staff,47992,"Perdagangan Eceran Keliling Komoditi Makanan, Minuman Atau Tembakau Hasil Industri Pengolahan",S1,3,661000000,3,2,2,4,3,4,PC,1,7,"Gg. Monginsidi No. 4
+Binjai, Sumatera Selatan 58396","Gg. Monginsidi No. 4
+Binjai, Sumatera Selatan 58396",Jalan Besar,Perum,Pemerintah,Kawasan perumahan elite,"-3.3194374, 103.914399",Apartemen ,Alias nemo omnis quisquam cum labore.,Retirement home,"Gg. Monginsidi No. 4
+Binjai, Sumatera Selatan 58396",,,,,South Sumatra,2,3,3,1,0,2,73,2,2,4
+2023-03-16 13:48:02.218285,192.168.42.209,1206054312870001,Kayun Marbun,36,P,Duda,3,Event promoter,Staff,10773,Industri Produk Masak Dari Kelapa,D4,2,647000000,3,0,2,4,2,0,PC,4,1,"Gang Merdeka No. 24
+Probolinggo, Kepulauan Bangka Belitung 69304","Gg. Ronggowarsito No. 2
+Kotamobagu, BE 74893",Jalan Kecil,Kost-kostan,Perorangan Pribadi,Kawasan perumahan padat penduduk,"3.31332, 117.59152",Kost-kostan ,Quisquam corporis cumque facere vel consequatur.,Apartment complex,"Karang Balik, Tarakan, Kalimantan Utara, 77112, Indonesia",,,Tarakan,77112,Kalimantan Utara,3,2,0,2,3,1,47,1,0,3
+2023-03-16 13:48:04.076986,192.168.84.147,1508045302670006,Aurora Haryanti,56,P,Janda,5,Mosque Imam,Manager,47879,"Perdagangan Eceran Kaki Lima Dan Los Pasar Campuran Kertas, Karton, Barang Dari Kertas, Alat Tulis-menulis, Alat Gambar, Hasil Pencetakan, Penerbitan Dan Lainnya",S2,4,81000000,2,0,1,0,3,0,Smartphone,3,1,"Jalan Rajawali Barat No. 500
+Kotamobagu, DI Yogyakarta 68344","Jl. Soekarno Hatta No. 82
+Tebingtinggi, JB 54008",Jalan Kecil,Villa,Lainnya,Kawasan industri,"-7.875384899999999, 110.4262088",Mess ,Quibusdam quis voluptas id.,House,"Jalan Rajawali Barat No. 500
+Kotamobagu, DI Yogyakarta 68344",,,,,Special Region of Yogyakarta,3,0,1,4,3,3,23,0,0,0
+2023-03-16 13:48:05.285032,192.168.241.239,1118064107590000,"Puti Nadia Safitri, M.Pd",64,P,Duda,3,Governor,Manager,46334,Perdagangan Besar Minuman Non Alkohol Bukan Susu,D3,2,377000000,2,3,1,3,1,0,Laptop,4,0,"Jl. Bangka Raya No. 225
+Kediri, Sumatera Barat 23923","Jl. Bangka Raya No. 225
+Kediri, Sumatera Barat 23923",Jalan Besar,Villa,Lainnya,Kawasan pegunungan,"-0.7399397, 100.8000051",Villa ,Iste tempore praesentium veritatis iste magnam magnam omnis.,Retirement home,"Jl. Bangka Raya No. 225
+Kediri, Sumatera Barat 23923",,,,,West Sumatra,1,4,2,1,2,0,112,3,2,3
+2023-03-16 13:48:05.637346,10.87.165.156,1701094509800005,Zelaya Sihotang,43,P,Cerai Hidup,2,Fisherman/fisheries,Manager,74201,Aktivitas Fotografi,D3,0,622000000,1,4,4,0,4,4,Laptop,1,6,"Gang Gegerkalong Hilir No. 52
+Blitar, MU 10956","Gang Cikutra Barat No. 6
+Serang, PA 01113",Jalan Besar,Villa,Lainnya,Kawasan komersial,"-6.8660066, 107.5875009",Rumah ,Cum eum vel maiores deserunt hic ullam.,Residential neighbourhood,"Gang Gegerkalong Hilir No. 52
+Blitar, MU 10956",,,,,West Java,4,0,0,3,4,3,9,0,0,1
+2023-03-16 13:48:05.915061,172.26.130.131,9108021004780002,Ir. Paramita Pranowo,45,L,Janda,5,Member of the Regional Representative Council,Manager,32904,Industri Peralatan Untuk Pelindung Keselamatan,D4,4,767000000,1,4,3,2,0,4,Smartphone,4,6,"Gg. Medokan Ayu No. 72
+Tangerang, AC 82524","Gg. Laswi No. 9
+Kendari, Jambi 83727",Jalan Besar,Rumah Susun,Perorangan Orang Lain,Kawasan perumahan padat penduduk,"-6.8048, 110.8405",Rumah Susun ,Aliquid optio odio ab error.,Dormitory,"Demaan, Kudus, Jawa Tengah, 59318, Indonesia",,,,59318,Jawa Tengah,4,1,0,4,3,3,19,0,0,0
+2023-03-16 13:48:07.762831,10.198.207.139,3578102810940002,"Dr. Dalimin Latupono, S.E.I",29,L,Janda,0,Carpenter,Supervisor,8105,Penggalian Tanah Dan Tanah Liat,S2,0,396000000,2,4,4,4,4,3,Laptop,5,3,"Gang Sentot Alibasa No. 889
+Samarinda, SG 55061","Gang Sentot Alibasa No. 889
+Samarinda, SG 55061",Jalan Besar,Rumah,Pemerintah,Kawasan perumahan elite,,Villa ,Reprehenderit dolor corporis.,,"Gang Sentot Alibasa No. 889
+Samarinda, SG 55061",,,,,,3,2,1,3,3,1,52,1,0,2
+2023-03-16 13:48:07.960857,172.21.21.226,9206165903920001,Liman Sihombing,31,P,Cerai Mati,2,Trade/business,Supervisor,47828,"Perdagangan Eceran Kaki Lima Dan Los Pasar Pakan Ternak, Pakan Unggas Dan Pakan Ikan",D4,2,509000000,0,3,3,0,1,4,Laptop,0,4,"Jalan Waringin No. 969
+Pematangsiantar, GO 00806","Jalan Waringin No. 969
+Pematangsiantar, GO 00806",Jalan Besar,Perum,Pemerintah,Kawasan wisata,"2.970042, 99.0681668",Villa ,Quisquam perspiciatis eum nostrum.,Dormitory,"Jalan Waringin No. 969
+Pematangsiantar, GO 00806",,,,,North Sumatra,0,3,1,0,2,0,110,3,2,3
+2023-03-16 13:48:08.323566,172.16.101.143,1211046412510004,Balapati Nashiruddin,72,P,Duda,3,Traditional healer,Staff,96129,Aktivitas Kebugaran Lainnya,D4,2,888000000,2,0,0,4,0,3,Smartphone,2,6,"Jl. Sadang Serang No. 058
+Padang, LA 42802","Gang K.H. Wahid Hasyim No. 687
+Ternate, SU 37572",Jalan Besar,Kontrakan,Perusahaan,Kawasan perumahan elite,"0.7957999, 127.3613533",Kontrakan ,Adipisci praesentium laborum omnis illum error minima ad.,House,"Gang K.H. Wahid Hasyim No. 687
+Ternate, SU 37572",,,,,North Maluku,3,2,1,2,2,1,55,1,2,4
+2023-03-16 13:48:08.738505,10.41.212.74,8103032106960001,"dr. Natalia Sinaga, S.Sos",27,L,Cerai Mati,0,Vice Mayor,Staff,10629,Industri Pati Lainnya,S2,4,223000000,3,4,1,2,1,3,PC,4,6,"Gg. Lembong No. 61
+Blitar, Kepulauan Bangka Belitung 25866","Gg. Lembong No. 61
+Blitar, Kepulauan Bangka Belitung 25866",Jalan Kecil,Apartemen,Pemerintah,Pinggiran kota,"-2.7410513, 106.4405872",Villa ,Velit praesentium tenetur optio excepturi.,Dormitory,"Gg. Lembong No. 61
+Blitar, Kepulauan Bangka Belitung 25866",,,,,Bangka Belitung Islands,3,2,0,2,2,1,38,1,2,3
+2023-03-16 13:48:09.163567,172.26.112.45,9108122811600004,Ibrahim Sirait,63,L,Cerai Hidup,2,Member of the Regional Representative Council,Manager,26490,Industri Peralatan Audio Dan Video Elektronik Lainnya,S2,4,665000000,3,3,0,4,3,3,Smartphone,5,5,"Jalan Jayawijaya No. 5
+Cilegon, Riau 59063","Jalan Medokan Ayu No. 63
+Tangerang, JA 33768",Jalan Sedang,Apartemen,Pemerintah,Kawasan perumahan padat penduduk,"0.2933469, 101.7068294",Apartemen ,Eligendi excepturi magnam ad in.,Retirement home,"Jalan Jayawijaya No. 5
+Cilegon, Riau 59063",,,,,Riau,1,2,2,2,2,1,65,2,0,4
+2023-03-16 13:48:10.529899,172.21.162.242,1108196902560005,"Teddy Uwais, S.Kom",67,P,Belum Kawin,1,Notary,Supervisor,32114,Industri Barang Dari Logam Mulia Untuk Keperluan Teknik Dan Atau Laboratorium,S1,3,395000000,1,0,0,4,1,4,PC,2,2,"Gang Jamika No. 446
+Padang, Lampung 86464","Gang Jamika No. 446
+Padang, Lampung 86464",Jalan Sedang,Mess,Perorangan Orang Lain,Kawasan pertanian,"-4.5585849, 105.4068079",Villa ,Et fugiat molestiae blanditiis.,Residential neighbourhood,"Gang Jamika No. 446
+Padang, Lampung 86464",,,,,Lampung,3,1,2,2,3,2,35,1,2,3
+2023-03-16 13:48:10.816020,192.168.128.73,1871140307630005,"Vicky Nugroho, M.Pd",60,L,Janda,4,Translator,Supervisor,8915,Pertambangan Potash (kalium Karbonat),S2,3,370000000,1,0,1,1,4,4,Laptop,4,6,"Gg. Kutisari Selatan No. 296
+Kediri, Lampung 69259","Gg. Kutisari Selatan No. 296
+Kediri, Lampung 69259",Jalan Besar,Kontrakan,Pemerintah,Kawasan industri,"-7.334617400000001, 112.7479862",Kontrakan ,Labore consequatur autem nobis minima neque.,House,"Gg. Kutisari Selatan No. 296
+Kediri, Lampung 69259",,,,,East Java,3,1,0,4,4,2,2,0,2,1
+2023-03-16 13:48:11.274314,192.168.7.94,3311034809850003,Hasim Wibowo,38,P,Janda,3,Pharmacist,Direktur,47824,"Perdagangan Eceran Kaki Lima Dan Los Pasar Tahu, Tempe, Tauco Dan Oncom",D4,2,296000000,2,4,4,4,3,0,Laptop,0,6,"Jalan H.J Maemunah No. 7
+Lubuklinggau, Maluku Utara 00469","Gang Astana Anyar No. 59
+Sorong, Gorontalo 86953",Jalan Kecil,Mess,Perorangan Pribadi,Pusat kota,"0.5435441999999999, 123.0567693",Apartemen ,Corporis eum iure ut.,Duplex,"Gang Astana Anyar No. 59
+Sorong, Gorontalo 86953",,,Gorontalo,,Gorontalo,4,0,0,3,4,2,11,0,2,2
+2023-03-16 13:48:11.711363,10.230.208.166,5301080401530007,"R.A. Ana Mulyani, M.TI.",70,L,Belum Kawin,4,Indonesian National Police,Direktur,2149,Pengusahaan Pembibitan Tanaman Kehutanan Lainnya,S2,0,666000000,2,1,0,2,4,0,Laptop,5,4,"Jl. Cikutra Timur No. 85
+Cilegon, KU 96558","Gg. Suniaraja No. 0
+Yogyakarta, SU 17200",Jalan Sedang,Rumah,Pemerintah,Kawasan perumahan miskin,"-7.7955798, 110.3694896",Rumah ,Dolorum fugiat quis.,Duplex,"Gg. Suniaraja No. 0
+Yogyakarta, SU 17200",,,Yogyakarta,,Special Region of Yogyakarta,2,2,2,3,3,1,34,1,2,4
+2023-03-16 13:48:12.134550,172.24.60.148,1505025701580008,Yance Agustina,65,P,Cerai Mati,2,Chef,Manager,13994,Industri Kain Ban,D3,0,335000000,3,2,3,4,2,0,PC,0,4,"Gang Jend. Sudirman No. 840
+Madiun, DI Yogyakarta 69814","Gg. Cikapayang No. 345
+Kupang, Maluku 22754",Jalan Besar,Rumah Susun,Lainnya,Kawasan perumahan padat penduduk,"-6.48167, 106.85417",Rumah Susun ,Veniam esse odit tempore.,Duplex,"Cibinong, Bogor, Jawa Barat, 16911, Indonesia",,,,16911,Jawa Barat,2,2,3,1,3,2,88,2,0,0
+2023-03-16 13:48:28.365598,192.168.152.115,3578226612700000,Ajeng Rahimah,53,P,Cerai Mati,0,Barber,Staff,93111,Fasilitas Billiard,SMA/SMK,2,369000000,1,3,0,2,0,3,Laptop,2,0,"Jalan K.H. Wahid Hasyim No. 031
+Kupang, Sulawesi Barat 52020","Jl. Pasteur No. 23
+Meulaboh, MU 34969",Jalan Kecil,Rumah Susun,Pemerintah,Pinggiran kota,"-1.26424, 104.09701",Kost-kostan ,Quod quisquam sint in nobis neque.,Dormitory,"Kelurahan Simpang, Tanjung Jabung Timur, Jambi, Indonesia",,,,,Jambi,3,2,1,3,3,1,35,1,0,1
+2023-03-16 13:48:30.101637,192.168.125.79,9108346910880001,"Tgk. Sidiq Salahudin, S.Ked",35,P,Kawin,4,Accountant,Manager,56104,Penyediaan Makanan Keliling/tempat Tidak Tetap,SMA/SMK,2,914000000,0,2,1,1,3,3,Smartphone,1,4,"Gg. Rajawali Barat No. 412
+Sorong, Papua 56398","Gg. Rajawali Barat No. 412
+Sorong, Papua 56398",Jalan Besar,Mess,Perusahaan,Kawasan perumahan padat penduduk,"-3.5403, 118.9707",Kontrakan ,Aliquid recusandae iusto adipisci.,Residential neighbourhood,"Labuang, Majene, Sulawesi Barat, 91412, Indonesia",,,,91412,Sulawesi Barat,2,2,3,2,3,0,64,2,0,1
+2023-03-16 13:48:32.214723,10.117.72.41,8171045707510005,Parman Sinaga,72,P,Cerai Mati,1,Radio broadcaster,Direktur,64133,Bank Pembiayaan Rakyat (bpr) Syariah,S2,3,762000000,2,3,4,3,2,3,Laptop,0,5,"Gang Cikapayang No. 783
+Tomohon, Papua Barat 57563","Gang Cikapayang No. 783
+Tomohon, Papua Barat 57563",Jalan Besar,Villa,Perorangan Orang Lain,Kawasan perumahan padat penduduk,"3.3285, 99.1625",Kost-kostan Jalan Veteran,Cum ullam repudiandae laboriosam laboriosam.,Retirement home,"Rumah Sakit Umum Herna, Jalan Veteran, Tebing Tinggi, Kota Tebing Tinggi, Sumatera Utara, 20600, Indonesia",,Jalan Veteran,Tebing Tinggi,20600,Sumatera Utara,1,3,3,2,3,1,66,2,0,2
+2023-03-16 13:48:33.510926,10.127.42.235,1402096306940005,Gamblang Prasasta,29,P,Kawin,2,Pharmacist,Manager,85500,Kegiatan Penunjang Pendidikan,D3,2,545000000,2,3,2,1,0,4,Smartphone,4,5,"Jalan Tebet Barat Dalam No. 78
+Singkawang, KU 88300","Gg. Moch. Toha No. 48
+Semarang, JA 25668",Jalan Kecil,Perum,Lainnya,Pusat kota,"-7.0051453, 110.4381254",Apartemen ,Esse eaque odio ullam.,Dormitory,"Gg. Moch. Toha No. 48
+Semarang, JA 25668",,,Semarang,,Central Java,1,3,1,1,1,0,116,3,2,4
+2023-03-16 13:48:33.792859,192.168.100.79,1106121407650006,"Garda Setiawan, S.I.Kom",58,L,Duda,0,Translator,Manager,2144,Pengusahaan Pembibitan Tanaman Sonokeling,S3,2,759000000,3,0,2,4,3,4,Smartphone,2,3,"Jalan Raya Setiabudhi No. 98
+Bau-Bau, Kalimantan Tengah 07152","Jl. Dipenogoro No. 715
+Salatiga, Kalimantan Selatan 49442",Jalan Sedang,Villa,Perusahaan,Kawasan industri,"-1.6814878, 113.3823545",Kost-kostan ,Atque rem iure sunt reiciendis beatae doloremque.,Apartment complex,"Jalan Raya Setiabudhi No. 98
+Bau-Bau, Kalimantan Tengah 07152",,,,,Central Kalimantan,0,3,3,1,0,1,110,3,0,2
+2023-03-16 13:48:34.261996,172.28.19.195,7211051102790003,"R.M. Dasa Uyainah, S.Farm",44,L,Belum Kawin,3,Dentist,Supervisor,7309,Pertambangan Bijih Logam Mulia Lainnya,S2,1,199000000,3,4,3,2,2,4,Smartphone,3,0,"Gg. Rumah Sakit No. 850
+Palu, Kepulauan Bangka Belitung 63102","Jalan Yos Sudarso No. 694
+Bukittinggi, Sumatera Selatan 99158",Jalan Kecil,Rumah,Lainnya,Kawasan pertanian,"-0.3028763, 100.3669095",Mess Jalan Yos Sudarso,Ex natus laboriosam fugit iste necessitatibus.,Residential neighbourhood,"Jalan Yos Sudarso No. 694
+Bukittinggi, Sumatera Selatan 99158",,Jalan Yos Sudarso,,26136,Sumatera Barat,3,0,1,4,4,2,18,0,2,2
+2023-03-16 13:48:35.012209,192.168.1.109,3208042707840002,Laila Samosir,39,L,Duda,0,Priest,Direktur,2409,Jasa Penunjang Kehutanan Lainnya,S1,2,346000000,2,1,0,4,2,0,PC,2,1,"Jalan Raya Setiabudhi No. 227
+Manado, Sulawesi Selatan 81394","Jalan Raya Setiabudhi No. 227
+Manado, Sulawesi Selatan 81394",Jalan Kecil,Rumah,Perorangan Pribadi,Kawasan perumahan elite,"1.4748305, 124.8420794",Rumah Susun ,Aut molestias debitis eaque voluptate tempore.,Residential neighbourhood,"Jalan Raya Setiabudhi No. 227
+Manado, Sulawesi Selatan 81394",,,Manado,,North Sulawesi,2,3,3,2,0,0,68,2,2,2
+2023-03-16 13:48:35.363429,172.25.152.174,8106076610820007,Tgk. Jaiman Wahyudin,41,P,Belum Kawin,2,Architect,Supervisor,46592,"Perdagangan Besar Alat Transportasi Laut, Suku Cadang Dan Perlengkapannya",SMA/SMK,0,559000000,0,2,4,2,2,1,Smartphone,2,5,"Jalan Rajiman No. 82
+Palembang, MU 99715","Jalan Joyoboyo No. 9
+Palembang, NT 16509",Jalan Kecil,Apartemen,Perorangan Orang Lain,Kawasan perumahan elite,"-2.9760735, 104.7754307",Kost-kostan ,Hic est ipsum consequatur culpa.,House,"Jalan Joyoboyo No. 9
+Palembang, NT 16509",,,Palembang,,South Sumatra,1,2,2,2,2,1,74,2,2,2
+2023-03-16 13:48:35.783355,192.168.193.233,8204182503730005,drg. Jasmin Irawan,50,L,Cerai Hidup,0,Barber,Staff,1112,Pertanian Gandum,D3,2,994000000,3,1,1,2,3,2,PC,1,4,"Jalan Cikutra Barat No. 880
+Bengkulu, SS 83197","Jalan Cikutra Barat No. 880
+Bengkulu, SS 83197",Jalan Kecil,Kost-kostan,Lainnya,Kawasan perumahan miskin,"3.31332, 117.59152",Apartemen ,Nobis illum ex aut reiciendis.,House,"Karang Balik, Tarakan, Kalimantan Utara, 77112, Indonesia",,,Tarakan,77112,Kalimantan Utara,3,0,1,4,3,2,21,0,0,2
+2023-03-16 13:48:38.258930,10.136.204.227,6210124606990002,Makuta Suryono,24,P,Cerai Hidup,0,Ambassador,Manager,30300,Industri Pesawat Terbang Dan Perlengkapannya,S3,4,416000000,1,2,2,2,3,1,Smartphone,4,5,"Gg. Laswi No. 0
+Ternate, Kalimantan Barat 93943","Jalan Dr. Djunjunan No. 1
+Tanjungpinang, GO 22392",Jalan Kecil,Villa,Perusahaan,Pusat kota,"-0.2787808, 111.4752851",Kost-kostan ,Praesentium autem at possimus architecto adipisci quod.,Duplex,"Gg. Laswi No. 0
+Ternate, Kalimantan Barat 93943",,,,,West Kalimantan,3,1,2,3,2,1,41,1,0,1
+2023-03-16 13:48:38.833810,10.63.29.50,3523042608940001,Ibrani Prasasta,29,L,Belum Kawin,0,Consultant,Supervisor,10774,Industri Pengolahan Garam,D4,2,412000000,3,1,0,1,1,3,Laptop,3,3,"Gang Pelajar Pejuang No. 80
+Mojokerto, NB 39605","Gg. Merdeka No. 34
+Makassar, Sulawesi Tengah 96080",Jalan Besar,Perum,Perorangan Orang Lain,Kawasan perumahan elite,"-5.1615828, 119.4359281",Perum ,Numquam accusantium amet cum vero consectetur.,Apartment complex,"Gg. Merdeka No. 34
+Makassar, Sulawesi Tengah 96080",,,Makassar,,South Sulawesi,0,3,4,1,1,1,108,3,2,3
+2023-03-16 13:48:39.160344,10.36.222.246,3304190806740001,Restu Rahmawati,49,L,Kawin,2,Industry,Direktur,47846,Perdagangan Eceran Kaki Lima Dan Los Pasar Aromatik/penyegar (minyak Atsiri),S2,4,715000000,0,2,1,2,3,3,Smartphone,1,4,"Jalan BKR No. 12
+Sungai Penuh, Sumatera Utara 69015","Jalan Pacuan Kuda No. 46
+Tanjungbalai, Maluku 19628",Jalan Besar,Kontrakan,Perorangan Pribadi,Kawasan pertanian,"-7.57897, 112.23109",Rumah ,Maxime iusto fugiat corporis autem odio reprehenderit.,Apartment complex,"Balongbesuk, Jombang, Jawa Timur, Jawa, 61471, Indonesia",,,,61471,Jawa Timur,0,4,4,0,1,1,99,3,0,3
+2023-03-16 13:48:41.141831,10.76.75.98,3212135610550006,R.A. Dina Permata,68,P,Duda,1,Entrepreneur,Manager,26512,Industri Alat Ukur Dan Alat Uji Elektrik,D4,1,328000000,1,1,1,0,0,1,Laptop,0,5,"Jl. BKR No. 036
+Manado, Banten 25021","Jl. BKR No. 800
+Ambon, Kalimantan Barat 69365",Jalan Kecil,Kontrakan,Perusahaan,Kawasan pegunungan,"-6.4058172, 106.0640179",Mess ,Consectetur quisquam sequi excepturi repudiandae.,House,"Jl. BKR No. 036
+Manado, Banten 25021",,,,,Banten,0,4,4,0,0,1,93,3,0,3
+2023-03-16 13:48:41.755243,172.27.149.8,1219121010670002,Pandu Nurdiyanti,56,L,Cerai Hidup,1,Doctor,Staff,23112,Industri Kaca Pengaman,S1,2,54000000,0,4,2,0,4,0,Laptop,2,1,"Gg. Soekarno Hatta No. 627
+Bukittinggi, Nusa Tenggara Timur 73302","Gg. Soekarno Hatta No. 627
+Bukittinggi, Nusa Tenggara Timur 73302",Jalan Kecil,Kontrakan,Perorangan Orang Lain,Kawasan perumahan padat penduduk,"-0.2977818, 100.3836228",Apartemen Jalan Soekarno Hatta,Sapiente illum pariatur nesciunt illo.,Residential neighbourhood,"Gg. Soekarno Hatta No. 627
+Bukittinggi, Nusa Tenggara Timur 73302",,Jalan Soekarno Hatta,,26117,Sumatera Barat,3,1,1,2,2,2,51,1,2,4
+2023-03-16 13:48:42.366094,172.23.172.92,1371102301610005,Juli Hastuti,62,L,Kawin,2,Vice Mayor,Staff,47875,"Perdagangan Eceran Kaki Lima Dan Los Pasar Alat Fotografi, Alat Optik Dan Perlengkapannya",SMA/SMK,2,590000000,0,1,4,4,0,3,Laptop,2,2,"Jalan Ciwastra No. 60
+Meulaboh, JB 53037","Jl. Stasiun Wonokromo No. 77
+Medan, MA 09870",Jalan Besar,Kost-kostan,Lainnya,Pusat kota,"4.1436951, 96.12811459999999",Rumah ,Itaque libero culpa facere.,Townhouse,"Jalan Ciwastra No. 60
+Meulaboh, JB 53037",,,Meulaboh,,Aceh,4,1,1,4,4,3,12,0,0,2
+2023-03-16 13:48:43.786188,172.28.70.127,3212212206560006,drg. Queen Marbun,67,L,Cerai Hidup,0,Farm laborer/gardener,Supervisor,47524,"Perdagangan Eceran Semen, Kapur, Pasir Dan Batu",D3,2,561000000,2,3,2,3,3,1,Smartphone,4,7,"Jalan Wonoayu No. 0
+Ternate, Nusa Tenggara Timur 66168","Gang Cikutra Barat No. 99
+Bandung, Sulawesi Utara 36295",Jalan Sedang,Mess,Lainnya,Pinggiran kota,"-8.657381899999999, 121.0793705",Mess ,Architecto accusantium eos praesentium quis laborum voluptates.,Gated community,"Jalan Wonoayu No. 0
+Ternate, Nusa Tenggara Timur 66168",,,,,East Nusa Tenggara,3,0,1,4,4,3,7,0,0,2
+2023-03-16 13:48:45.932996,192.168.63.22,3602021109610002,"drg. Janet Yolanda, S.Pt",62,L,Duda,5,Village officials,Staff,47512,Perdagangan Eceran Perlengkapan Rumah Tangga Dari Tekstil,S2,2,240000000,0,4,2,3,2,1,Laptop,1,2,"Gang Kiaracondong No. 5
+Banjarmasin, Banten 90149","Jalan Cikapayang No. 41
+Jayapura, BA 44290",Jalan Kecil,Rumah Susun,Perorangan Pribadi,Kawasan perumahan padat penduduk,"-7.51611, 109.05389",Rumah Susun ,Debitis facere nisi incidunt eaque totam enim.,Residential neighbourhood,"Wangon, Banyumas, Jawa Tengah, Indonesia",,,,,Jawa Tengah,3,2,1,3,2,2,60,1,0,1
+2023-03-16 13:48:57.678230,10.72.27.213,5317046002740006,"Rachel Safitri, S.Sos",49,P,Janda,3,Islamic preacher,Staff,85496,Pendidikan Awak Pesawat Dan Jasa Angkutan Udara Khusus Pendidikan Awak Pesawat,D4,1,75000000,3,1,2,2,0,4,PC,0,4,"Jl. Suniaraja No. 81
+Pekalongan, Sulawesi Tenggara 14323","Gg. Peta No. 3
+Sungai Penuh, Sulawesi Tengah 46251",Jalan Sedang,Kost-kostan,Lainnya,Pusat kota,"-4.144909999999999, 122.174605",Rumah ,Pariatur quo dolorum facere voluptate veniam.,Dormitory,"Jl. Suniaraja No. 81
+Pekalongan, Sulawesi Tenggara 14323",,,,,South East Sulawesi,3,1,2,2,3,1,34,1,0,1
+2023-03-16 13:49:00.163752,192.168.86.34,1602054806560000,"Tgk. Widya Susanti, S.IP",67,P,Janda,2,Carpenter,Staff,2147,Pengusahaan Pembibitan Tanaman Akasia,S3,0,328000000,1,1,1,1,4,1,Smartphone,5,6,"Jalan Rajawali Timur No. 7
+Padang Sidempuan, BA 14267","Jalan Rajawali Timur No. 7
+Padang Sidempuan, BA 14267",Jalan Besar,Kontrakan,Lainnya,Kawasan komersial,"-8.43333, 114.33333",Kost-kostan ,Repudiandae hic iusto provident.,Duplex,"Kedungrejo, Banyuwangi, Jawa Timur, Indonesia",,,Banyuwangi,,Jawa Timur,3,1,2,2,2,2,47,1,0,0
+2023-03-16 13:49:06.488243,172.20.11.20,1301022302650001,Putri Hutapea,58,L,Belum Kawin,2,Makeup artist,Manager,10222,Industri Pengolahan Dan Pengawetan Udang Dalam Kaleng,D3,4,915000000,3,0,2,1,2,1,Laptop,1,7,"Gang Asia Afrika No. 490
+Jambi, SR 18576","Gang Veteran No. 55
+Pagaralam, KU 82431",Jalan Kecil,Perum,Pemerintah,Kawasan wisata,"-1.6, 103.61667",Kost-kostan Jalan Haji Abdulrahman Saleh,Modi provident dicta sed.,Retirement home,"Jalan Haji Abdulrahman Saleh, Sungai Asam, Jambi, Danau Sipin, Jambi, 36134, Indonesia",,Jalan Haji Abdulrahman Saleh,Jambi,36134,Jambi,0,4,3,1,1,0,107,3,0,2
+2023-03-16 13:49:07.849258,172.19.15.120,3211175108570004,Jessica Tarihoran,66,P,Janda,3,Trade/business,Staff,33159,"Reparasi Alat Angkutan Lainnya, Bukan Kendaraan Bermotor",S2,0,249000000,3,1,0,2,0,1,Laptop,5,5,"Gang Cihampelas No. 1
+Blitar, Riau 79720","Gang Cihampelas No. 1
+Blitar, Riau 79720",Jalan Kecil,Perum,Perorangan Pribadi,Kawasan industri,"-8.095462699999999, 112.1609056",Apartemen ,Reprehenderit deserunt hic a.,Townhouse,"Gang Cihampelas No. 1
+Blitar, Riau 79720",,,Blitar,,East Java,2,2,1,2,2,1,42,1,2,4
+2023-03-16 13:49:08.382097,192.168.243.169,1273011111830004,"Drs. Nabila Winarsih, M.Pd",40,L,Belum Kawin,5,Driver,Supervisor,26520,Industri Alat Ukur Waktu,D3,0,477000000,0,1,0,4,1,4,PC,1,6,"Gg. Setiabudhi No. 29
+Cilegon, Jawa Barat 13749","Gg. Setiabudhi No. 29
+Cilegon, Jawa Barat 13749",Jalan Sedang,Kost-kostan,Pemerintah,Pinggiran kota,"-7.0981, 109.3243",Perum Jembatan Comal,Asperiores unde voluptas cumque eum quis voluptate.,Gated community,"SMA ALFALAH, Jembatan Comal, Sikasur, Pemalang, Jawa Tengah, Indonesia",,Jembatan Comal,,,Jawa Tengah,0,4,4,0,1,0,115,3,0,2
+2023-03-16 13:49:10.512818,192.168.194.49,6209065910530003,Drs. Respati Pratama,70,P,Belum Kawin,0,Civil Servant,Staff,16213,Industri Panel Kayu Lainnya,S1,0,759000000,1,4,0,0,0,0,Smartphone,1,3,"Jl. K.H. Wahid Hasyim No. 336
+Samarinda, NT 06273","Jalan Moch. Ramdan No. 0
+Malang, KB 00710",Jalan Sedang,Rumah,Lainnya,Kawasan perumahan padat penduduk,"-6.1869139, 106.8160773",Rumah Jalan K.H. Wahid Hasyim,Hic corporis maiores consequatur tenetur commodi nihil.,House,"Jl. K.H. Wahid Hasyim No. 336
+Samarinda, NT 06273",,Jalan K.H. Wahid Hasyim,,10240,Daerah Khusus Ibukota Jakarta,2,1,2,3,2,1,52,1,0,3
+2023-03-16 13:49:11.467545,10.110.203.188,3404121205580003,"Eli Wahyuni, S.Pt",65,L,Belum Kawin,5,Journalist,Manager,50131,Angkutan Laut Dalam Negeri Liner Untuk Barang,D4,1,334000000,2,2,3,1,1,0,PC,1,1,"Jl. Gardujati No. 849
+Kediri, Jawa Tengah 65666","Gg. Sentot Alibasa No. 635
+Denpasar, LA 97580",Jalan Sedang,Apartemen,Perusahaan,Kawasan industri,"-1.26424, 104.09701",Villa ,Rerum id earum quasi optio dolore quo.,Dormitory,"Kelurahan Simpang, Tanjung Jabung Timur, Jambi, Indonesia",,,,,Jambi,3,1,0,3,3,1,44,1,0,3
+2023-03-16 13:49:13.995107,192.168.226.101,9205064107680002,"Ajiono Rahimah, S.Psi",55,P,Cerai Hidup,4,Dentist,Direktur,33149,Reparasi Peralatan Listrik Lainnya,S3,1,614000000,2,1,0,1,3,4,Laptop,4,0,"Jalan M.H Thamrin No. 26
+Pariaman, SU 60213","Gg. Rajawali Timur No. 333
+Palangkaraya, Sulawesi Barat 34624",Jalan Sedang,Kost-kostan,Lainnya,Kawasan perumahan elite,"-1.26424, 104.09701",Perum ,Architecto at officiis consequatur a dolores.,Duplex,"Kelurahan Simpang, Tanjung Jabung Timur, Jambi, Indonesia",,,,,Jambi,2,2,2,1,1,2,87,2,0,4
+2023-03-16 13:49:16.448463,10.86.229.244,1410091807780008,"Tgk. Asmuni Rajata, M.Farm",45,L,Cerai Mati,5,State-owned enterprise employee,Manager,30112,Industri Bangunan Lepas Pantai Dan Bangunan Terapung,S2,4,805000000,1,3,1,3,4,4,Laptop,0,0,"Gang Stasiun Wonokromo No. 4
+Kendari, SR 09349","Gang Sukabumi No. 45
+Prabumulih, BA 99548",Jalan Kecil,Rumah Susun,Perorangan Pribadi,Pinggiran kota,"-3.4213707, 104.2436833",Kontrakan ,Alias natus commodi quaerat.,Retirement home,"Gang Sukabumi No. 45
+Prabumulih, BA 99548",,,Prabumulih,,South Sumatra,3,1,1,3,3,2,59,1,2,4
+2023-03-16 13:49:16.708854,10.139.63.82,3529105307980009,"Cinta Melani, S.Pt",25,P,Belum Kawin,3,Pilot,Supervisor,50214,Angkutan Penyeberangan Antarprovinsi Untuk Penumpang,S3,2,125000000,1,3,0,2,3,0,Laptop,2,1,"Gang Astana Anyar No. 066
+Lhokseumawe, Sulawesi Selatan 92970","Gang Astana Anyar No. 066
+Lhokseumawe, Sulawesi Selatan 92970",Jalan Sedang,Villa,Perorangan Pribadi,Kawasan wisata,"-7.73379, 113.69785",Rumah Susun ,Officiis nihil enim.,Apartment complex,"Besuki, Situbondo, Jawa Timur, Indonesia",,,,,Jawa Timur,4,0,0,4,3,2,8,0,0,0
+2023-03-16 13:49:19.380430,10.170.140.217,5312182207940003,Dr. Carla Lazuardi,29,L,Janda,2,Regent/Mayor,Supervisor,77400,"Sewa Guna Usaha Tanpa Hak Opsi Aset Non Finansial, Bukan Karya Hak Cipta",D4,0,829000000,1,1,0,4,1,2,Laptop,1,0,"Gg. Jamika No. 512
+Purwokerto, YO 44465","Gg. Jamika No. 512
+Purwokerto, YO 44465",Jalan Kecil,Rumah,Perorangan Pribadi,Kawasan pegunungan,"-7.4242782, 109.2396366",Kost-kostan ,Veniam eveniet exercitationem vitae laborum deleniti laborum.,Condominium complex,"Gg. Jamika No. 512
+Purwokerto, YO 44465",,,Purwokerto,,Central Java,1,4,1,0,1,1,115,3,2,3
+2023-03-16 13:49:19.674099,192.168.39.159,1701086606830002,Cut Clara Prasasta,40,P,Janda,3,Governor,Manager,25932,Industri Alat Potong Dan Perkakas Tangan Pertukangan,S2,4,756000000,3,4,3,1,0,2,PC,1,3,"Jalan Abdul Muis No. 4
+Surabaya, JT 81657","Jalan Ir. H. Djuanda No. 52
+Sorong, LA 73047",Jalan Sedang,Apartemen,Perorangan Pribadi,Kawasan perumahan miskin,"-0.8761629000000001, 131.255828",Mess ,Vitae deleniti quod eligendi.,Dormitory,"Jalan Ir. H. Djuanda No. 52
+Sorong, LA 73047",,,Sorong,,West Papua,1,3,4,0,1,0,94,3,2,3
+2023-03-16 13:49:20.244441,172.20.37.175,1306011112680006,Dr. Damu Hakim,55,L,Duda,5,Carpenter,Staff,73100,Periklanan,S1,0,616000000,0,2,0,2,0,2,Smartphone,3,0,"Jalan HOS. Cokroaminoto No. 8
+Bengkulu, JB 89978","Jalan HOS. Cokroaminoto No. 8
+Bengkulu, JB 89978",Jalan Sedang,Mess,Perorangan Orang Lain,Kawasan perumahan padat penduduk,"-6.48167, 106.85417",Kost-kostan ,Dignissimos deleniti expedita est ipsam exercitationem.,Residential neighbourhood,"Cibinong, Bogor, Jawa Barat, 16911, Indonesia",,,,16911,Jawa Barat,2,2,1,1,2,2,77,2,0,3
+2023-03-16 13:49:21.778123,10.147.40.194,3204343102670000,Elma Pradana,56,L,Kawin,3,Vice Regent/Vice Mayor,Manager,95220,Reparasi Peralatan Rumah Tangga Dan Peralatan Rumah Dan Kebun,SMA/SMK,0,996000000,1,2,4,0,3,1,Laptop,1,1,"Gang Laswi No. 4
+Banjarmasin, Kalimantan Timur 63493","Gg. Siliwangi No. 31
+Langsa, Banten 55510",Jalan Sedang,Rumah Susun,Perorangan Pribadi,Kawasan perumahan elite,"-6.4058172, 106.0640179",Apartemen ,Amet et sint saepe asperiores repellendus.,Gated community,"Gg. Siliwangi No. 31
+Langsa, Banten 55510",,,,,Banten,0,3,2,1,1,1,107,3,2,4
+2023-03-16 13:49:21.982629,172.31.60.215,3506196605840002,"Mulyono Yolanda, S.Pd",39,P,Duda,1,Member of the Constitutional Court,Manager,46620,Perdagangan Besar Logam Dan Bijih Logam,S1,1,632000000,2,2,3,1,0,3,Laptop,2,4,"Gg. Jamika No. 1
+Bukittinggi, JB 11575","Jl. Joyoboyo No. 8
+Subulussalam, JB 74479",Jalan Sedang,Rumah Susun,Pemerintah,Kawasan komersial,"-6.8048, 110.8405",Apartemen ,Optio illo aliquam alias.,Townhouse,"Demaan, Kudus, Jawa Tengah, 59318, Indonesia",,,,59318,Jawa Tengah,1,3,3,1,1,2,67,2,0,0
+2023-03-16 13:49:23.927369,192.168.194.67,3279026106520001,Kurnia Prastuti,71,P,Janda,0,Student,Supervisor,58110,Penerbitan Buku,S1,3,932000000,3,4,2,1,3,0,Laptop,5,5,"Jalan Asia Afrika No. 591
+Dumai, JI 92944","Jalan Cikapayang No. 513
+Sawahlunto, Sulawesi Selatan 24528",Jalan Sedang,Rumah Susun,Perorangan Orang Lain,Pusat kota,,Kontrakan ,Earum incidunt a veritatis eos animi minima.,,"Jalan Asia Afrika No. 591
+Dumai, JI 92944",,,,,,2,2,2,2,3,2,43,1,0,3
+2023-03-16 13:49:24.628663,10.61.31.205,6407071603870005,"Drs. Gangsa Hartati, S.Pt",36,L,Duda,1,Dentist,Staff,17012,Industri Kertas Budaya,S3,1,216000000,2,1,0,1,1,1,PC,1,6,"Gg. Kutai No. 58
+Tanjungpinang, KR 53214","Jalan Peta No. 93
+Sukabumi, SU 24713",Jalan Besar,Kost-kostan,Lainnya,Kawasan komersial,"0.51667, 101.44167",Apartemen Jalan Durian,Quaerat eius fuga corporis perferendis repellat atque.,House,"Jalan Durian, RT. 01, Kelurahan Jadirejo, Kabupaten Kampar, Riau, 28121, Indonesia",,Jalan Durian,Kelurahan Jadirejo,28121,Riau,2,3,3,2,1,2,86,2,0,1
+2023-03-16 13:49:26.382689,172.19.194.184,9113444801740003,Eman Anggriawan,49,P,Kawin,3,Welder/blacksmith,Direktur,2142,Pengusahaan Pembibitan Tanaman Pinus,D4,4,786000000,0,1,0,4,0,1,PC,2,3,"Gg. Rawamangun No. 50
+Kotamobagu, SR 28221","Gg. Rawamangun No. 50
+Kotamobagu, SR 28221",Jalan Kecil,Rumah,Perorangan Pribadi,Kawasan perumahan padat penduduk,"0.7243733, 124.3199316",Rumah ,Quaerat nulla optio eveniet dolorem totam magni sapiente.,House,"Gg. Rawamangun No. 50
+Kotamobagu, SR 28221",,,Kotamobagu,,North Sulawesi,4,0,1,3,3,2,23,0,2,2
+2023-03-16 13:49:26.611606,172.30.218.10,7202203102650001,Rachel Gunarto,58,L,Belum Kawin,4,Artist,Supervisor,10779,Industri Produk Masak Lainnya,SMA/SMK,0,865000000,3,2,1,3,1,2,PC,1,4,"Jalan Jend. Sudirman No. 827
+Cimahi, KU 72056","Jalan Jend. Sudirman No. 827
+Cimahi, KU 72056",Jalan Besar,Kost-kostan,Lainnya,Kawasan pertanian,"-6.889090299999999, 107.5345504",Apartemen Jalan Jendral Sudirman,Numquam quas recusandae eius est dignissimos corrupti.,Duplex,"Jalan Jend. Sudirman No. 827
+Cimahi, KU 72056",,Jalan Jendral Sudirman,,40521,Jawa Barat,2,3,2,2,2,0,74,2,2,4
+2023-03-16 13:49:27.108982,10.98.146.44,6310035606850003,Ian Pangestu,38,P,Belum Kawin,5,Fisherman/fishery laborer,Direktur,10763,Industri Pengolahan Teh,S1,1,603000000,2,1,3,3,3,3,Smartphone,0,6,"Jl. Ronggowarsito No. 823
+Makassar, Gorontalo 48170","Jl. Moch. Toha No. 75
+Sukabumi, Sulawesi Tenggara 86583",Jalan Sedang,Apartemen,Perorangan Orang Lain,Kawasan pegunungan,"-5.1615828, 119.4359281",Perum ,Suscipit minus pariatur maxime.,Gated community,"Jl. Ronggowarsito No. 823
+Makassar, Gorontalo 48170",,,Makassar,,South Sulawesi,0,4,4,0,0,1,112,3,0,1
+2023-03-16 13:49:27.613371,172.28.17.117,1218112704980003,Kenes Wahyuni,25,L,Duda,1,Priest,Staff,46511,Perdagangan Besar Komputer Dan Perlengkapan Komputer,D4,2,570000000,0,3,0,1,0,3,PC,1,3,"Jl. M.T Haryono No. 7
+Banjarbaru, Kalimantan Utara 58348","Jl. M.T Haryono No. 7
+Banjarbaru, Kalimantan Utara 58348",Jalan Kecil,Kontrakan,Perorangan Orang Lain,Kawasan wisata,"-3.4572422, 114.8103181",Perum ,Doloribus omnis repudiandae temporibus ipsam reiciendis.,Residential neighbourhood,"Jl. M.T Haryono No. 7
+Banjarbaru, Kalimantan Utara 58348",,,Banjarbaru,,South Kalimantan,3,2,2,2,3,1,59,1,2,2

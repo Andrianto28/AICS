@@ -1,0 +1,21 @@
+{
+    "domicile_lat": -3.54,
+    "domicile_lon": 118.97,
+    "now_lat": -3.54,
+    "now_lon": 118.97,
+    "last_1_week_lat": -3.54,
+    "last_1_week_lon": 118.97,
+    "last_2_week_lat": -3.54,
+    "last_2_week_lon": 118.97,
+    "last_3_week_lat": -7.55,
+    "last_3_week_lon": 110.72,
+    "last_4_week_lat": -6.48,
+    "last_4_week_lon": 106.85,
+    "length_of_stay": "3 - 4 Tahun",
+    "total_population": "Sangat Tinggi",
+    "income_rate": "Rendah",
+    "unemployment_rate": "Tinggi",
+    "education_rate": "Rendah",
+    "crime_rate": "Sangat Rendah",
+    "poverty_rate": "Sangat Tinggi"
+}
